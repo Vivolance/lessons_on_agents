@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3dd323f-07bf-46ec-9f21-ba328ebfbe4b" name="Changes" comment="added sample tool_calling_example.py" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="32dZgDnX3QWc5UyYl6XqLb1jbVy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/elsonchan/Desktop/elson_practice_ground/my_practice/open_ai_mcp&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/summarizer" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3dd323f-07bf-46ec-9f21-ba328ebfbe4b" name="Changes" comment="" />
+      <created>1757752519031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757752519031</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1758157557416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758157557416</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add pyproject.toml">
+      <option name="closed" value="true" />
+      <created>1759888182622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759888182622</updated>
+    </task>
+    <task id="LOCAL-00003" summary="black ruff">
+      <option name="closed" value="true" />
+      <created>1759888220795</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759888220795</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added tool_calling_example.py">
+      <option name="closed" value="true" />
+      <created>1760365783129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760365783129</updated>
+    </task>
+    <task id="LOCAL-00005" summary="black ruff">
+      <option name="closed" value="true" />
+      <created>1760365803081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760365803081</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added pypdf">
+      <option name="closed" value="true" />
+      <created>1760405072349</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760405072349</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added sample data pdf">
+      <option name="closed" value="true" />
+      <created>1760405092229</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760405092229</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added sample tool_calling_example.py">
+      <option name="closed" value="true" />
+      <created>1760405101692</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760405101693</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="add pyproject.toml" />
+    <MESSAGE value="added tool_calling_example.py" />
+    <MESSAGE value="black ruff" />
+    <MESSAGE value="added pypdf" />
+    <MESSAGE value="added sample data pdf" />
+    <MESSAGE value="added sample tool_calling_example.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sample tool_calling_example.py" />
+  </component>
+</project>
